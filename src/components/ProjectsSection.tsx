@@ -457,11 +457,11 @@ export default function ProjectsSection() {
     },
     {
       id: 10,
-      title: 'Musico - Song Information Getter',
+      title: 'Musico - Music Streaming & Information Platform',
       category: 'Web Development',
-      description: 'A powerful song information retrieval tool that fetches comprehensive music data, lyrics, artist details, and album information from various music APIs.',
-      longDescription: 'Musico is a comprehensive song information application that allows users to search and retrieve detailed information about songs, artists, and albums. It integrates with multiple music APIs to provide album details, and related music recommendations in an elegant, user-friendly interface.',
-      tags: ['React', 'Music API', 'Song Info', 'JavaScript', 'API Integration'],
+      description: 'A comprehensive music platform featuring streaming stations, song information retrieval, lyrics, artist details, and album information from various music APIs.',
+      longDescription: 'Musico is a comprehensive music platform that combines streaming capabilities with detailed song information. Users can stream music through various stations while accessing comprehensive data about songs, artists, and albums. It integrates with multiple music APIs to provide lyrics, artist biographies, album details, and related music recommendations in an elegant, user-friendly interface.',
+      tags: ['React', 'Music API', 'Song Info', 'JavaScript', 'API Integration', 'Music Streaming', 'Stations'],
       images: ['/projects/musico-1.jpg', '/projects/musico-2.jpg', '/projects/musico-3.jpg'],
       mockup: '/projects/musico-mockup.jpg',
       video: '/projects/musico-demo.mp4',
@@ -472,23 +472,27 @@ export default function ProjectsSection() {
       challenges: [
         'Integrating multiple music data APIs',
         'Handling diverse music metadata formats',
-        'Creating intuitive search and display interface'
+        'Creating intuitive search and display interface',
+        'Implementing music streaming stations'
       ],
       solutions: [
         'Built unified API abstraction layer for multiple services',
         'Implemented data normalization and caching system',
-        'Designed clean, responsive interface with rich media display'
+        'Designed clean, responsive interface with rich media display',
+        'Added streaming station functionality with audio controls'
       ],
       features: [
         'Comprehensive song and artist search',
         'Album and artist information',
-        'Music recommendations and related tracks'
-        ],
+        'Music recommendations and related tracks',
+        'Music streaming stations',
+        'Audio playback controls'
+      ],
       techStack: {
         frontend: ['React', 'JavaScript', 'CSS3', 'Music APIs'],
         backend: ['Node.js', 'Express.js', 'Redis'],
         database: ['MongoDB'],
-        features: ['API Integration', 'Lyrics Display'],
+        features: ['API Integration', 'Lrics Display', 'Music Streaming'],
         deployment: ['Netlify']
       }
     }
