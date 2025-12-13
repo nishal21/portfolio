@@ -10,7 +10,7 @@
 [![TailwindCSS](https://img.shields.io/badge/Tailwind-4.0-38B2AC?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
-[Live Demo](https://nishal21.github.io/portfolio) • [Report Bug](https://github.com/nishal21/Portfolio/issues) • [Request Feature](https://github.com/nishal21/Portfolio/issues)
+[Live Demo](https://nishalk.netlify.app) • [Report Bug](https://github.com/nishal21/Portfolio/issues) • [Request Feature](https://github.com/nishal21/Portfolio/issues)
 
 </div>
 
