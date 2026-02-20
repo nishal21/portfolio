@@ -71,7 +71,7 @@ export default function AboutSection() {
               transition={{ duration: 0.8, delay: 0.2 }}
             >
               <p className="text-lg text-white/80 leading-relaxed">
-                At just <span className="text-green-400 font-semibold">17 years old</span> and born in the beautiful state of <span className="text-green-400 font-semibold">Kerala</span>, 
+                At just <span className="text-green-400 font-semibold">18 years old</span> and born in the beautiful state of <span className="text-green-400 font-semibold">Kerala</span>, 
                 I&apos;m a passionate AMV (Anime Music Video) editor, music remix artist, and full-stack developer who believes in creating digital experiences that tell stories through both visual storytelling and innovative code.
               </p>
               
@@ -179,3 +179,4 @@ export default function AboutSection() {
     </section>
   );
 }
+
